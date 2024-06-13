@@ -17,7 +17,7 @@ Dessa forma, promovendo a fixação de conhecimentos de POO.
 
 ## 🧑‍💻 Sobre o Autor
 
-- Olá! Eu sou um programador iniciante.
+- Olá! me chamo Marcos Reis, Sou um programador iniciante em transição de carreira
 - Este projeto foi uma continuação do projeto da DIO (Digital Innovation One).
 - Estou aprendendo e aprimorando minhas habilidades em Java e desenvolvimento de sistemas.
 
